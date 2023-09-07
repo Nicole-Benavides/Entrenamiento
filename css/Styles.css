@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#principal{
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#principal .contenedor1{
+    width: 50%;
+    height: 150px;
+    border: 2px solid #000;
+}
+
+#principal .circulo{
+    margin: 10px auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: red;
+}
+
+
+#principal .contenedor2{
+    width: 50%;
+    height: 150px;
+    border: 2px solid #000;
+}
+
+#juego{
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 2px solid #000;
+}
+
+#juego .torres{
+    width: 20px;
+    height: 230px;
+    margin: 90px;
+    background-color: #000;
+    margin:  0 auto;
+}
+
+#juego #ficha1{
+    width: 40px;
+    height: 40px;
+    margin: 10px auto;
+    border-radius: 50%;
+    background-color: blueviolet;
+} 
+
+#juego #ficha2{
+    width: 60px;
+    height: 60px;
+    margin: 10px auto;
+    border-radius: 50%;
+    background-color: blueviolet;
+} 
+
+#juego #ficha3{
+    width: 80px;
+    height: 80px;
+    margin: 10px auto;
+    border-radius: 50%;
+    background-color: blueviolet;
+} 
